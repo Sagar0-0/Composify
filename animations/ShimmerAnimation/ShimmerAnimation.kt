@@ -35,7 +35,7 @@ fun ShimmerAnimation(
              Tween Animates between values over specified [durationMillis]
             */
             animation = tween(
-                durationMillis = 1200,
+                durationMillis = 900,
                 easing = LinearEasing,
                 delayMillis = 300
             )
@@ -49,7 +49,7 @@ fun ShimmerAnimation(
              Tween Animates between values over specified [durationMillis]
             */
             animation = tween(
-                durationMillis = 1200,
+                durationMillis = 900,
                 easing = LinearEasing,
                 delayMillis = 300
             )
