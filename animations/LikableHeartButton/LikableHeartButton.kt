@@ -22,7 +22,7 @@ private val expandedIconSize = 60.dp
 
 @Composable
 @Preview
-fun ClickableHeartButton() {
+fun LikableHeartButton() {
     var needLike by remember { mutableStateOf(true) }
     val transition = updateTransition(targetState = needLike, label = "LikeTransition")
 
