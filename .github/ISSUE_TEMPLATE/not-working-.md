@@ -1,6 +1,6 @@
 ---
 name: Not working?
-about: Create an issue if anything in this repo is deprecated or not working as expected
+about: If anything is deprecated or not working as expected
 title: "[BROKEN]"
 labels: BROKEN
 assignees: Sagar0-0
